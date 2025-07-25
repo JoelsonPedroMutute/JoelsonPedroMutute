@@ -4,9 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/JoelsonPedroMutute">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Apaixonado+por+tecnologia%2C+desenvolvimento+web+e+aprendizado+cont%C3%ADnuo." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Apaixonado+por+tecnologia;Desenvolvimento+web;Aprendizado+cont%C3%ADnuo" alt="Typing SVG" />
   </a>
 </p>
+
+
 
 ---
 
